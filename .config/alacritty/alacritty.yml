@@ -1,0 +1,54 @@
+background_opacity: 0.90
+
+colors:
+
+  primary:
+    background: '#282c34'
+    foreground: '#f5eceb'
+  
+  normal:
+    black: '#2e2e2e'
+    blue: '#47a0f3'
+    cyan: '#64dbed'
+    green: '#abe047'
+    magenta: '#a47de9'
+    red: '#eb4129'
+    white: '#e5e9f0'
+    yellow: '#f6c744'
+  
+  bright:
+    black: '#565656'
+    blue: '#49a4f8'
+    cyan: '#99faf2'
+    green: '#c0e17d'
+    magenta: '#a47de9'
+    red: '#ec5357'
+    white: '#ffffff'
+    yellow: '#f9da6a'
+
+
+font:
+  normal:
+    family: SauceCodePro Nerd Font
+    style: Regular
+  
+  bold:
+    family: SauceCodePro Nerd Font
+    style: Regular
+  
+  italic:
+    family: SauceCodePro Nerd Font
+    style: Regular
+  
+  size: 20
+
+mouse_bindings:
+- action: PasteSelection
+  mouse: Right
+
+window:
+  padding:
+    x: 6
+    y: 6
+  
+  title: Alacritty
